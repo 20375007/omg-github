@@ -1,8 +1,11 @@
 #include <stdio.h>
 
 int main ( void ){
-// コメントつけたよ
+	int a ;	
+
+	// コメントつけたよ
 	printf("Hello! World!\n") ;
+	
 
 	return 0 ;
 }
